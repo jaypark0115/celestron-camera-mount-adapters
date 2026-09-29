@@ -23,6 +23,12 @@ A [`four-adapter print plate`](models/stl/telescope_four_adapters_all_latest.stl
 | --- | --- |
 | ![TPI to M12 adapter](docs/renders/03-tpi-to-m12.png) | ![TPI to C-mount adapter](docs/renders/04-tpi-to-cmount.png) |
 
+## Printed adapters
+
+![All four 3D-printed telescope camera adapters](docs/photos/four-printed-adapters.jpg)
+
+All four adapters printed in black PLA, covering the M12 and C-mount options for both telescope interfaces.
+
 ## Physical fit checks
 
 | M12 camera with 1.25-inch adapter | C-mount/1.25-inch and TPI-side adapters installed |
